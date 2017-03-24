@@ -9,7 +9,7 @@ Creatd By Mikail
 ```
 ابتدا در خط اول توکن
 و در خط دوم ایدی ادمین را وارد کنید
-سپس از مثل بخش وبهوک
+سپس از مثال بخش [وبهوک](https://github.com/PBotTeam/Fun-Php/blob/master/README.md#webhook)
 وبهوک خودرا انجام دهید
 ```
 # Webhook
